@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4065BA78-150B-4A10-B4A3-62ABF0FE6C93</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bates Connect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F53AB6A43C23C6CAC48AF5EAAD3FDD71EF7E6167</key>
+		<string>https://github.com/tsc333/Bates_Connect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bates Connect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F53AB6A43C23C6CAC48AF5EAAD3FDD71EF7E6167</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tsc333/Bates_Connect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F53AB6A43C23C6CAC48AF5EAAD3FDD71EF7E6167</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F53AB6A43C23C6CAC48AF5EAAD3FDD71EF7E6167</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bates_Connect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
